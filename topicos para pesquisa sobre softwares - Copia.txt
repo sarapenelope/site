@@ -1,0 +1,40 @@
+1. Sistemas Operacionais
+O que são sistemas operacionais e qual a sua função em um computador?
+1.1 Sistemas Livres
+O que são sistemas operacionais livres?
+1.1.1 Linux
+O que é o Linux e quais são suas principais características?
+1.1.2 Distribuições
+O que são distribuições Linux? Cite exemplos.
+1.2 Sistemas Proprietários
+O que são sistemas operacionais proprietários?
+1.2.1 Apple
+Quais são os sistemas operacionais desenvolvidos pela Apple e suas características?
+1.2.2 Microsoft
+Quais são os principais sistemas operacionais da Microsoft?
+2. Softwares
+O que são softwares e qual sua importância?
+2.1 Tipos de Licenças
+O que são licenças de software?
+2.1.1 Licenciados
+O que são softwares licenciados?
+2.1.2 Livres
+O que são softwares livres?
+2.1.3 Proprietários
+O que são softwares proprietários?
+2.2 Tipos de Softwares
+Quais são os principais tipos de softwares?
+2.2.1 de Sistemas
+O que são softwares de sistema? Dê exemplos.
+2.2.2 Aplicativos
+O que são softwares aplicativos? Cite exemplos.
+2.2.3 de Programação
+O que são softwares de programação? Para que servem?
+2.3 Software para Diagnóstico
+O que são softwares de diagnóstico e para que são utilizados?
+2.3.1 Diagnóstico de Software
+Como é feito o diagnóstico de software?
+2.3.2 Diagnóstico de Hardware
+Como é feito o diagnóstico de hardware?
+2.4 Ferramentas de Busca e Download
+O que são ferramentas de busca e download? Cite exemplos.
